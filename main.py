@@ -154,6 +154,4 @@ async def jeetoh():
         embed.set_footer(text=f"|I-» Created By AKHIL «-I|",\
         icon_url="https://cdn.discordapp.com/attachments/694929355843043362/695100886971842610/22222.png")
         await bot.say('@everyone',embed=embed)
-
-
-bot.run('Njg1NDkwOTA3NzA4OTE1NzM1.XpMwgA.xzfL07UN_WcxXndmg5LjnhDyhJ0')
+cxXndmg5LjnhDyhJ0')
