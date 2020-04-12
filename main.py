@@ -156,4 +156,4 @@ async def jeetoh():
         await bot.say('@everyone',embed=embed)
 
 
-bot.run('Njg1NDkwOTA3NzA4OTE1NzM1.XmJfmg.DuIgU1U4CsP6UWKL9261WNQt21s')
+bot.run('Njg1NDkwOTA3NzA4OTE1NzM1.XpMwgA.xzfL07UN_WcxXndmg5LjnhDyhJ0')
